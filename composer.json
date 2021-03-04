@@ -1,0 +1,10 @@
+{
+    "name": "gitpod/myapp",
+    "authors": [
+        {
+            "name": "muhammedInan",
+            "email": "muhammed-inan@outlook.com"
+        }
+    ],
+    "require": {}
+}
